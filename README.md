@@ -1,6 +1,6 @@
 <div align="center">
-  <!-- TOP: NARUTO WELCOME GIF (100% ONLINE CLOUD CDN - ZERO EXTRA UPLOADS NEEDED) -->
-  <img src="https://media.tenor.com/EM11Ye7FqQgAAAAM/naruto-hi.gif" width="100%" style="max-width: 500px; border-radius: 12px; border: 1px solid #1e293b; box-shadow: 0 0 25px rgba(56, 189, 248, 0.25);" alt="Naruto Welcome" />
+  <!-- TOP: NARUTO WELCOME GIF (COMPACT 220PX HEIGHT) -->
+  <img src="https://media.tenor.com/EM11Ye7FqQgAAAAM/naruto-hi.gif" height="220" style="border-radius: 12px; border: 1px solid #1e293b; box-shadow: 0 0 25px rgba(56, 189, 248, 0.25);" alt="Naruto Welcome" />
 </div>
 
 <br>
@@ -172,9 +172,9 @@
 <hr>
 <br>
 
-<!-- BOTTOM: SAD OBITO UCHIHA RAIN GOODBYE (100% ONLINE CLOUD CDN - ZERO EXTRA UPLOADS NEEDED) -->
+<!-- BOTTOM: SAD OBITO UCHIHA RAIN GOODBYE (COMPACT 220PX HEIGHT) -->
 <div align="center">
-  <img src="https://media.tenor.com/e_tDtrTU5zkAAAAM/obito-rain.gif" width="100%" style="max-width: 500px; border-radius: 12px; border: 1px solid #1e293b; box-shadow: 0 0 25px rgba(220, 38, 38, 0.25);" alt="Sad Obito Farewell" />
+  <img src="https://media.tenor.com/e_tDtrTU5zkAAAAM/obito-rain.gif" height="220" style="border-radius: 12px; border: 1px solid #1e293b; box-shadow: 0 0 25px rgba(220, 38, 38, 0.25);" alt="Sad Obito Farewell" />
   <br><br>
   <p align="center">
     <i>“I am no one... I don’t want to be anyone. All I care about is completing the Tsuki no Me plan. Look at me... There is nothing in my heart now.”</i> ⚡
