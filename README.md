@@ -1,32 +1,35 @@
 <div align="center">
 
   <!-- =========================================================================
-       TOP: NARUTO / SHINOBI WELCOME GIF EDIT
+       TOP: NARUTO / SHINOBI WELCOME GIF EDIT (PERMANENT LIVE CLOUD URL)
        ========================================================================= -->
   <a href="https://kynexauth.com">
-    <img src="assets/welcome.gif" width="520" style="border-radius: 12px; border: 1px solid #1e293b; box-shadow: 0 0 25px rgba(56, 189, 248, 0.25);" alt="Naruto Welcome Edit" />
+    <img src="https://files.catbox.moe/ta9ds2.gif" width="100%" style="max-width: 720px; border-radius: 12px; border: 1px solid #1e293b; box-shadow: 0 0 35px rgba(56, 189, 248, 0.3);" alt="Naruto Welcome Edit" />
   </a>
 
   <br><br>
 
-  <!-- Dynamic Typing Header -->
+  <!-- Dynamic Typing Telemetry Header -->
   <a href="https://github.com/0xFinexCodes">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&height=70&lines=Welcome+to+my+domain!+%E2%9A%A1;I'm+Abdullah+Sagor+(0xFinexCodes)+%F0%9F%A5%B7;C%2B%2B20+%7C+DirectX+11+%7C+Low-Level+%7C+Reverse+Engineering;Founder+%26+Lead+Architect+%40+KynexAuth;Forged+in+the+shadows.+Zero-Day+Craftsmanship!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&height=60&lines=%E2%9A%A1+Welcome+to+my+domain!+%E2%80%94+The+Shinobi+Void;%F0%9F%A5%B7+Abdullah+Sagor+(0xFinexCodes)+%C2%B7+Systems+Architect;%F0%9F%91%81%EF%B8%8F+C%2B%2B20+%C2%B7+DirectX+11+%C2%B7+Dear+ImGui+Specialist;%F0%9F%9B%A1%EF%B8%8F+Founder+%26+Lead+Architect+%40+KynexAuth;%E2%9A%94%EF%B8%8F+Obito+Uchiha+Mindset+%E2%80%94+Zero-Day+Craftsmanship" alt="Typing SVG" />
   </a>
 
   <br>
 
-  <!-- Status & Pill Badges -->
+  <!-- Unified Slate & Cyan Pill Badges -->
   <p align="center">
     <a href="https://github.com/0xFinexCodes">
-      <img src="https://img.shields.io/badge/Location-Bangladesh_%F0%9F%87%A7%F0%9F%87%BD-0284c7?style=for-the-badge&logoColor=white" />
+      <img src="https://img.shields.io/badge/LOCATION-BANGLADESH_%F0%9F%87%A7%F0%9F%87%BD-0f172a?style=for-the-badge&logoColor=38bdf8&labelColor=0284c7" />
     </a>
+    &nbsp;
     <a href="https://kynexauth.com">
-      <img src="https://img.shields.io/badge/Founder-KynexAuth-0369a1?style=for-the-badge&logoColor=white" />
+      <img src="https://img.shields.io/badge/FOUNDER-KYNEXAUTH-0f172a?style=for-the-badge&logo=shield&logoColor=38bdf8&labelColor=0369a1" />
     </a>
+    &nbsp;
     <a href="https://github.com/0xFinexCodes">
-      <img src="https://img.shields.io/badge/Main_Loves-C%2B%2B_%7C_DirectX_ImGui_%7C_Anti--Tamper-0f172a?style=for-the-badge&logoColor=38bdf8" />
+      <img src="https://img.shields.io/badge/STACK-C%2B%2B20_%7C_DIRECTX_IMGUI-0f172a?style=for-the-badge&logo=cplusplus&logoColor=38bdf8&labelColor=0284c7" />
     </a>
+    &nbsp;
     <a href="https://github.com/0xFinexCodes">
       <img src="https://komarev.com/ghpvc/?username=0xFinexCodes&color=0284c7&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
     </a>
@@ -37,29 +40,29 @@
 <br>
 
 <!-- =========================================================================
-     BIO & SHINOBI SIDE-BY-SIDE TABLE (RealTenzo Layout)
+     BIO & SHINOBI SIDE-BY-SIDE INTEL TABLE (RealTenzo Layout)
      ========================================================================= -->
 
 <table border="0" width="100%">
   <tr>
     <td width="240px" align="center" valign="middle">
       <a href="https://kynexauth.com">
-        <img src="assets/welcome.gif" width="220px" style="border-radius: 12px; border: 1px solid #1e293b;" alt="Shinobi Avatar" />
+        <img src="https://files.catbox.moe/ta9ds2.gif" width="220px" style="border-radius: 12px; border: 1px solid #1e293b; box-shadow: 0 0 20px rgba(56, 189, 248, 0.25);" alt="Shinobi Avatar" />
       </a>
     </td>
     <td valign="top">
       <p align="left">
         &nbsp;&#10022; <b>Abdullah Sagor</b> (online handle: <b>0xFinexCodes</b> / <b>FINEX BOYZZ.</b>).
         <br><br>
-        &nbsp;&#10022; <b>Systems Developer & Reverse Engineer</b> from Bangladesh 🇧🇩 specialized in native C++ Win32 and game graphics.
+        &nbsp;&#10022; <b>Systems Developer & Reverse Engineer</b> from Bangladesh 🇧🇩 focused on hardened native C++ Win32 systems and low-level game graphics.
         <br><br>
-        &nbsp;&#10022; Writing <b>C++20, DirectX 11/12 ImGui suites, Win32 API, anti-debugging, and HWID locking engines</b>.
+        &nbsp;&#10022; Engineering <b>C++20, DirectX 11/12 ImGui overlay suites, Win32 API, anti-debugging, and multi-point HWID locking engines</b>.
         <br><br>
-        &nbsp;&#10022; Creator & Lead Systems Architect of <b><a href="https://kynexauth.com">KynexAuth</a></b> — next-gen software protection and licensing cloud.
+        &nbsp;&#10022; Founder & Lead Architect of <b><a href="https://kynexauth.com">KynexAuth</a></b> — next-gen software protection and cloud licensing infrastructure.
         <br><br>
-        &nbsp;&#10022; Deployed <b>Worldwide E-Commerce Stores & Client Web Systems</b> alongside C# .NET desktop automation.
+        &nbsp;&#10022; Deployed <b>Worldwide E-Commerce Stores & Client Systems</b> alongside high-performance C# .NET desktop automation.
         <br><br>
-        &nbsp;&#10022; Naruto & Obito Uchiha devotee 🥷 | Kamui space-time mindset | Forged in the shadows.
+        &nbsp;&#10022; Naruto & Obito Uchiha mindset 🥷 | Kamui space-time execution | Forged in the shadows.
       </p>
     </td>
   </tr>
@@ -68,39 +71,41 @@
 <br>
 
 <!-- =========================================================================
-     SKILLS & WEAPONRY (Categorized Shields)
+     SKILLS & TECH WEAPONRY (Curated Matrix & Badges)
      ========================================================================= -->
 
-<h2 align="center">💻 What I Work With</h2>
+<h2 align="center">⚔️ What I Work With</h2>
+
+<div align="center">
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,cs,python,c,asm,react,nextjs,ts,js,nodejs,express,mongodb,redis,tailwind,git,visualstudio,vscode&perline=9&theme=dark" alt="Skill Matrix" />
+</p>
+
+</div>
 
 <div>
   <h4>✦ Low-Level & Graphics ✦</h4>
-  <img src="https://img.shields.io/badge/C%2B%2B20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/DirectX_11-%230078D6.svg?style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dear_ImGui-%230f172a.svg?style=for-the-badge&logo=c%2B%2B&logoColor=38bdf8" />
-  <img src="https://img.shields.io/badge/Win32_API-%230078D6.svg?style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/Memory_Hooks-%234B0082.svg?style=for-the-badge&logo=visual-studio&logoColor=white" />
-  <img src="https://img.shields.io/badge/Anti--Tamper-%23DC2626.svg?style=for-the-badge&logo=shield&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B20-0f172a.svg?style=for-the-badge&logo=c%2B%2B&logoColor=38bdf8" />
+  <img src="https://img.shields.io/badge/DirectX_11-0f172a.svg?style=for-the-badge&logo=windows&logoColor=38bdf8" />
+  <img src="https://img.shields.io/badge/Dear_ImGui-0f172a.svg?style=for-the-badge&logo=c%2B%2B&logoColor=38bdf8" />
+  <img src="https://img.shields.io/badge/Win32_API-0f172a.svg?style=for-the-badge&logo=windows&logoColor=38bdf8" />
+  <img src="https://img.shields.io/badge/Memory_Hooks-0f172a.svg?style=for-the-badge&logo=visual-studio&logoColor=38bdf8" />
+  <img src="https://img.shields.io/badge/Anti--Tamper-0f172a.svg?style=for-the-badge&logo=shield&logoColor=dc2626" />
 
-  <h4>✦ Languages & Scripts ✦</h4>
-  <img src="https://img.shields.io/badge/C%23_--_.NET_8-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
+  <h4>✦ Languages & Desktop ✦</h4>
+  <img src="https://img.shields.io/badge/C%23_--_.NET_8-0f172a.svg?style=for-the-badge&logo=c-sharp&logoColor=38bdf8" />
+  <img src="https://img.shields.io/badge/Python_3-0f172a.svg?style=for-the-badge&logo=python&logoColor=38bdf8" />
+  <img src="https://img.shields.io/badge/TypeScript-0f172a.svg?style=for-the-badge&logo=typescript&logoColor=38bdf8" />
+  <img src="https://img.shields.io/badge/JavaScript-0f172a.svg?style=for-the-badge&logo=javascript&logoColor=38bdf8" />
 
   <h4>✦ Full-Stack Web Development ✦</h4>
-  <img src="https://img.shields.io/badge/React_19-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white" />
-
-  <h4>✦ Tools & Environment ✦</h4>
-  <img src="https://img.shields.io/badge/Visual_Studio-%235C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_19-0f172a.svg?style=for-the-badge&logo=react&logoColor=38bdf8" />
+  <img src="https://img.shields.io/badge/Next.js-0f172a.svg?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-0f172a.svg?style=for-the-badge&logo=node.js&logoColor=38bdf8" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-0f172a.svg?style=for-the-badge&logo=tailwind-css&logoColor=38bdf8" />
+  <img src="https://img.shields.io/badge/MongoDB-0f172a.svg?style=for-the-badge&logo=mongodb&logoColor=38bdf8" />
+  <img src="https://img.shields.io/badge/Redis-0f172a.svg?style=for-the-badge&logo=redis&logoColor=dc2626" />
 </div>
 
 <br><br>
@@ -120,8 +125,8 @@
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/Platform-Live-0284c7?style=flat-square" />
-        <img src="https://img.shields.io/badge/Crypto-AES--256--GCM-green?style=flat-square" />
-        <img src="https://img.shields.io/badge/HWID-Multi--Point-orange?style=flat-square" />
+        <img src="https://img.shields.io/badge/Crypto-AES--256--GCM-0f172a?style=flat-square&logoColor=38bdf8" />
+        <img src="https://img.shields.io/badge/HWID-Multi--Point-0f172a?style=flat-square&logoColor=38bdf8" />
       </p>
     </td>
     <td width="50%" valign="top">
@@ -130,9 +135,9 @@
         <i>High-performance C++ DirectX 11 Dear ImGui overlay with zero frame drops, streamer-mode cloaking, and low-level Win32 hooks.</i>
       </p>
       <p align="center">
-        <img src="https://img.shields.io/badge/C%2B%2B20-Native-blue?style=flat-square" />
-        <img src="https://img.shields.io/badge/DirectX_11-Hardware_Swapchain-purple?style=flat-square" />
-        <img src="https://img.shields.io/badge/ImGui-Dark--X_Neon-darkgreen?style=flat-square" />
+        <img src="https://img.shields.io/badge/C%2B%2B20-Native-0284c7?style=flat-square" />
+        <img src="https://img.shields.io/badge/DirectX_11-Hardware_Swapchain-0f172a?style=flat-square" />
+        <img src="https://img.shields.io/badge/ImGui-Dark--X_Neon-0f172a?style=flat-square" />
       </p>
     </td>
   </tr>
@@ -143,9 +148,9 @@
         <i>Commercial e-commerce storefronts and digital item delivery systems deployed internationally with automated checkout gateways.</i>
       </p>
       <p align="center">
-        <img src="https://img.shields.io/badge/E--Commerce-Worldwide-teal?style=flat-square" />
-        <img src="https://img.shields.io/badge/FullStack-React_Next.js-blue?style=flat-square" />
-        <img src="https://img.shields.io/badge/Delivery-Instant_Automated-green?style=flat-square" />
+        <img src="https://img.shields.io/badge/E--Commerce-Worldwide-0284c7?style=flat-square" />
+        <img src="https://img.shields.io/badge/FullStack-React_Next.js-0f172a?style=flat-square" />
+        <img src="https://img.shields.io/badge/Delivery-Instant_Automated-0f172a?style=flat-square" />
       </p>
     </td>
     <td width="50%" valign="top">
@@ -154,9 +159,9 @@
         <i>Native Windows productivity utilities built on .NET 8, WPF, and MVVM with deep Win32 P/Invoke and encrypted local storage.</i>
       </p>
       <p align="center">
-        <img src="https://img.shields.io/badge/.NET_8-WPF_MVVM-blue?style=flat-square" />
-        <img src="https://img.shields.io/badge/Concurrency-Async_Pipelines-yellow?style=flat-square" />
-        <img src="https://img.shields.io/badge/Status-In_Progress-orange?style=flat-square" />
+        <img src="https://img.shields.io/badge/.NET_8-WPF_MVVM-0284c7?style=flat-square" />
+        <img src="https://img.shields.io/badge/Concurrency-Async_Pipelines-0f172a?style=flat-square" />
+        <img src="https://img.shields.io/badge/Status-In_Progress-0f172a?style=flat-square" />
       </p>
     </td>
   </tr>
@@ -172,15 +177,15 @@
 
 <p align="center">
   <a href="https://github.com/0xFinexCodes" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-0xFinexCodes-0f172a?style=for-the-badge&logo=github&logoColor=38bdf8" />
   </a>
   &nbsp;
   <a href="https://discord.gg/AHwg2YA6sE" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+    <img src="https://img.shields.io/badge/Discord-Join%20Void-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
   &nbsp;
   <a href="mailto:finexboyzz@kynexauth.com">
-    <img src="https://img.shields.io/badge/Email-0284c7?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-finexboyzz%40kynexauth.com-0284c7?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   &nbsp;
   <a href="https://kynexauth.com" target="_blank">
@@ -193,13 +198,13 @@
 <br>
 
 <!-- =========================================================================
-     BOTTOM: SAD OBITO UCHIHA GOODBYE GIF EDIT & SEAL
+     BOTTOM: SAD OBITO UCHIHA GOODBYE GIF EDIT & SEAL (PERMANENT LIVE CLOUD URL)
      ========================================================================= -->
 
 <div align="center">
 
   <a href="https://github.com/0xFinexCodes">
-    <img src="assets/goodbye.gif" width="520" style="border-radius: 12px; border: 1px solid #1e293b; box-shadow: 0 0 25px rgba(220, 38, 38, 0.35);" alt="Obito Uchiha Farewell" />
+    <img src="https://files.catbox.moe/4adezq.gif" width="100%" style="max-width: 720px; border-radius: 12px; border: 1px solid #1e293b; box-shadow: 0 0 35px rgba(220, 38, 38, 0.35);" alt="Obito Uchiha Farewell" />
   </a>
   
   <br><br>
