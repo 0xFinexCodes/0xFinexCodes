@@ -1,36 +1,46 @@
 <div align="center">
 
-<!-- Hero Animated Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,3,15,28&height=230&section=header&text=0xFinexCodes&fontSize=56&fontColor=38bdf8&animation=twinkling&fontAlignY=38&desc=Systems%20Architecture%20%7C%20C%2B%2B%20%2F%20DirectX%20%7C%20Cloud%20Licensing&descAlignY=58&descAlign=50" width="100%" />
+<!-- =========================================================================
+     TOP WELCOME & KAMUI SPACE-TIME BANNER
+     ========================================================================= -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,8,16,28&height=240&section=header&text=0xFinexCodes&fontSize=58&fontColor=38bdf8&animation=twinkling&fontAlignY=36&desc=%E3%80%8C%20WELCOME%20TO%20THE%20KAMUI%20DIMENSION%20%E3%80%8D&descAlignY=58&descAlign=50" width="100%" />
+
+<!-- Obito Mangekyo Sharingan / Kamui Animation -->
+<p align="center">
+  <img src="https://media.giphy.com/media/sMhnWnnhkQ0sf4sp8j/giphy.gif" width="340" style="border-radius: 12px; border: 1px solid #1e293b; box-shadow: 0 0 25px rgba(56, 189, 248, 0.25);" alt="Obito Kamui" />
+</p>
 
 <!-- Animated Dynamic Typing -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=2600&pause=1000&color=38BDF8&center=true&vcenter=true&width=650&lines=%E2%9A%A1+Founder+%26+Lead+Architect+%40+KynexAuth;%E2%9A%94%EF%B8%8F+C%2B%2B20+%C2%B7+DirectX+11+%C2%B7+Dear+ImGui+Specialist;%F0%9F%A5%B7+Midnight+Shinobi+%E2%80%94+Zero-Day+%26+Reverse+Craft;%F0%9F%9B%A1%EF%B8%8F+Anti-Tamper+%C2%B7+Multi-Point+HWID+Hardware+Locks;%F0%9F%8C%90+Engineering+Global+Web+Storefronts+%26+Client+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=2500&pause=1000&color=38BDF8&center=true&vcenter=true&width=680&lines=%E2%9A%A1+Welcome%2C+Traveler.+You+have+stepped+into+my+domain.;%F0%9F%A5%B7+Founder+%26+Lead+Architect+%40+KynexAuth;%F0%9F%91%81%EF%B8%8F+Master+of+Space-Time%2C+C%2B%2B20+%26+DirectX+11;%F0%9F%9B%A1%EF%B8%8F+Kernel+Hooks+%C2%B7+Anti-Tamper+%C2%B7+HWID+Locks;%E2%9A%94%EF%B8%8F+%22I+am+no+one...+I+don't+care+about+the+fools+who+follow+rules.%22" alt="Typing SVG" />
 </p>
 
-<!-- Live Badges & Quick Links -->
+<!-- Live Badges & Quick Action Links -->
 <p align="center">
   <a href="https://kynexauth.com"><img src="https://img.shields.io/badge/KYNEXAUTH-LIVE_PLATFORM-0284c7?style=for-the-badge&logo=shield&logoColor=white" /></a>
   <a href="https://discord.gg/AHwg2YA6sE"><img src="https://img.shields.io/badge/DISCORD-COMMUNITY-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
   <a href="mailto:finexboyzz@kynexauth.com"><img src="https://img.shields.io/badge/CONTACT-finexboyzz%40kynexauth.com-0f172a?style=for-the-badge&logo=gmail&logoColor=38bdf8" /></a>
-  <img src="https://komarev.com/ghpvc/?username=0xFinexCodes&label=SHINOBI+VISITORS&style=for-the-badge&color=0369a1" />
+  <img src="https://komarev.com/ghpvc/?username=0xFinexCodes&label=KAMUI+PORTAL+VIEWS&style=for-the-badge&color=dc2626" />
 </p>
 
-<!-- Aesthetic Anime / Cyber Divider -->
+<!-- Anime Chakra / Kamui Rift Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="24px" />
 
 </div>
 
 <br/>
 
-### 忍 // SHINOBI PROFILE & OPERATIONAL OVERVIEW
+### 🌀 // OBITO UCHIHA INTEL & OPERATIONAL PROFILE
+
+> *"In the ninja world, those who break the rules are scum... but those who abandon their comrades are worse than scum. And those who abandon their dreams are worse than both."* — **Obito Uchiha**
 
 ```yaml
-Operator: "Abdullah Sagor (FINEX BOYZZ. / 0xFinexCodes)"
-Specialization: "High-Performance Systems & Native Desktop Engineering"
-Clearance: "Lead Architect @ KynexAuth"
-Operating System: "Windows 11 Pro · Custom Tooling"
-Philosophy: "Forged in midnight frost. Salt-stained, true to the water."
+Identity: "Abdullah Sagor (0xFinexCodes / FINEX BOYZZ.)"
+Affiliation: "Uchiha Clan · Akatsuki Masked Architect"
+Primary Mission: "Founder & Lead Developer @ KynexAuth"
+Arsenal: "Modern C++20 · DirectX 11/12 · Space-Time Win32 Hooks"
+Dimension: "Kamui Pocket Void · Midnight Frost"
+Status: "Awakened · Ready for Deployment"
 ```
 
 ---
@@ -45,7 +55,7 @@ Philosophy: "Forged in midnight frost. Salt-stained, true to the water."
       <ul>
         <li><b>Core:</b> Sub-millisecond cloud crypto licensing API (AES-256-GCM)</li>
         <li><b>Hardware Lock:</b> Multi-point hardware ID (HWID) hashing & anti-tamper</li>
-        <li><b>SDKs:</b> Native Win32 C++, C# .NET 8, and Python 3 libraries</li>
+        <li><b>SDKs:</b> Native Win32 C++, C# .NET 8, and Python 3 packages</li>
         <li><b>Status:</b> <code>Production Live @ kynexauth.com</code></li>
       </ul>
       <p align="center">
@@ -92,7 +102,7 @@ Philosophy: "Forged in midnight frost. Salt-stained, true to the water."
 
 ---
 
-### ⚔️ TECH ARSENAL & SKILLS
+### ⚔️ NINJUTSU & TECH ARSENAL
 
 <div align="center">
 
@@ -100,18 +110,18 @@ Philosophy: "Forged in midnight frost. Salt-stained, true to the water."
   <img src="https://skillicons.dev/icons?i=cpp,cs,python,c,asm,react,nextjs,ts,js,nodejs,express,mongodb,redis,tailwind,git,visualstudio,vscode&perline=9&theme=dark" />
 </p>
 
-| Domain | Weaponry & Technologies |
+| Domain | Jutsu & Technologies |
 | :--- | :--- |
-| **Low-Level & Graphics** | `C++20` `DirectX 11/12` `Dear ImGui` `Win32 API` `x64 Assembly` `Memory Hooks` |
+| **Low-Level Space-Time** | `C++20` `DirectX 11/12` `Dear ImGui` `Win32 API` `x64 Assembly` `Memory Hooks` |
 | **Desktop Automation** | `C# .NET 8` `WPF` `Windows Forms` `Async/Await Task Pipelines` `P/Invoke` |
 | **Full-Stack & Cloud** | `React 19` `Next.js` `TypeScript` `Node.js` `Express` `MongoDB` `Redis` |
-| **Security & Cryptography** | `AES-256-GCM` `Multi-Point HWID Lock` `Dynamic Salting` `Anti-Debugging` |
+| **Security & Sealing Jutsu** | `AES-256-GCM` `Multi-Point HWID Lock` `Dynamic Salting` `Anti-Debugging` |
 
 </div>
 
 ---
 
-### 📊 REAL-TIME TELEMETRY & STREAKS
+### 📊 TELEMETRY & CHAKRA STREAKS
 
 <div align="center">
 
@@ -121,38 +131,52 @@ Philosophy: "Forged in midnight frost. Salt-stained, true to the water."
       <img src="https://github-readme-stats.vercel.app/api?username=0xFinexCodes&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=38bdf8&text_color=94a3b8&icon_color=38bdf8" height="165" alt="Stats" />
     </td>
     <td align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=0xFinexCodes&theme=tokyonight&hide_border=true&background=00000000&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" height="165" alt="Streak" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=0xFinexCodes&theme=tokyonight&hide_border=true&background=00000000&ring=38bdf8&fire=dc2626&currStreakLabel=38bdf8" height="165" alt="Streak" />
     </td>
   </tr>
 </table>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xFinexCodes&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=38bdf8&text_color=94a3b8" width="370" alt="Top Langs" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xFinexCodes&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=38bdf8&text_color=94a3b8" width="380" alt="Top Langs" />
 
 </div>
 
 ---
 
+<!-- =========================================================================
+     GOODBYE & KAMUI SPACE-TIME WARP OUT
+     ========================================================================= -->
 <div align="center">
 
-<!-- Naruto / Cyber Shinobi Pixel GIF -->
-<img src="https://media.giphy.com/media/fGGV7FeScq2s/giphy.gif" width="300" style="border-radius: 10px; border: 1px solid #1e293b;" />
+<br/>
 
-<br/><br/>
+### 🌀 「 FAREWELL, TRAVELER 」
+#### *Leaving the Kamui Pocket Dimension...*
+
+<p align="center">
+  <img src="https://media.giphy.com/media/13fS0DeekVUspG/giphy.gif" width="340" style="border-radius: 12px; border: 1px solid #1e293b; box-shadow: 0 0 25px rgba(220, 38, 38, 0.25);" alt="Obito Kamui Farewell" />
+</p>
 
 ```c++
 /*
- * 0xFinexCodes autonomous loop
+ * 0xFinexCodes space-time loop
  */
-while (developer.is_alive()) {
-    developer.compile_cpp_kernels();
-    developer.protect_payloads();
-    developer.ship_worldwide_production();
+try {
+    while (shinobi.is_breathing()) {
+        kamui.phase_through_obstacles();
+        kynexauth.encrypt_payloads();
+        developer.ship_legendary_software();
+    }
+} catch (const RealityException& e) {
+    kamui.teleport_to_pocket_dimension();
 }
 ```
 
-<!-- Animated Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=28,15,3,1,0&height=120&section=footer" width="100%" />
+<p align="center">
+  <sub>*“Look at me. There is nothing in my heart now. I don’t even feel pain anymore.”*</sub><br/>
+  <b>Thanks for stepping into my domain. Until our paths cross again.</b>
+</p>
 
-<sub>⚡ *Forged in the shadows. Powered by midnight frost.* ⚡</sub>
+<!-- Animated Footer Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=28,16,8,2,0&height=130&section=footer" width="100%" />
 
 </div>
