@@ -1,51 +1,55 @@
 <div align="center">
 
 <!-- =========================================================================
-     TOP WELCOME & KAMUI SPACE-TIME BANNER
+     TOP: PURE WELCOME GIF EDIT (NARUTO / SHINOBI)
      ========================================================================= -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,8,16,28&height=240&section=header&text=0xFinexCodes&fontSize=58&fontColor=38bdf8&animation=twinkling&fontAlignY=36&desc=%E3%80%8C%20WELCOME%20TO%20THE%20KAMUI%20DIMENSION%20%E3%80%8D&descAlignY=58&descAlign=50" width="100%" />
 
-<!-- Obito Mangekyo Sharingan / Kamui Animation -->
+<a href="https://kynexauth.com">
+  <img src="assets/welcome.gif" width="460" alt="Shinobi Welcome Edit" />
+</a>
+
+<br/>
+
+<!-- Dynamic Typing Telemetry -->
 <p align="center">
-  <img src="https://media.giphy.com/media/sMhnWnnhkQ0sf4sp8j/giphy.gif" width="340" style="border-radius: 12px; border: 1px solid #1e293b; box-shadow: 0 0 25px rgba(56, 189, 248, 0.25);" alt="Obito Kamui" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2400&pause=1000&color=38BDF8&center=true&vcenter=true&width=700&lines=%E2%9A%A1+0xFinexCodes+%E2%80%94+Systems+Architect+%26+Reverse+Engineer;%F0%9F%A5%B7+Founder+%26+Lead+Developer+%40+KynexAuth;%F0%9F%91%81%EF%B8%8F+C%2B%2B20+%C2%B7+DirectX+11+%C2%B7+Dear+ImGui+Specialist;%F0%9F%9B%A1%EF%B8%8F+Kernel+Hooks+%C2%B7+Anti-Tamper+%C2%B7+HWID+Protection;%E2%9A%94%EF%B8%8F+Obito+Uchiha+Mindset+%E2%80%94+Zero-Day+Craftsmanship" alt="0xFinexCodes Typing" />
 </p>
 
-<!-- Animated Dynamic Typing -->
+<!-- Live Quick Status -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=2500&pause=1000&color=38BDF8&center=true&vcenter=true&width=680&lines=%E2%9A%A1+Welcome%2C+Traveler.+You+have+stepped+into+my+domain.;%F0%9F%A5%B7+Founder+%26+Lead+Architect+%40+KynexAuth;%F0%9F%91%81%EF%B8%8F+Master+of+Space-Time%2C+C%2B%2B20+%26+DirectX+11;%F0%9F%9B%A1%EF%B8%8F+Kernel+Hooks+%C2%B7+Anti-Tamper+%C2%B7+HWID+Locks;%E2%9A%94%EF%B8%8F+%22I+am+no+one...+I+don't+care+about+the+fools+who+follow+rules.%22" alt="Typing SVG" />
+  <img src="https://img.shields.io/badge/STATUS-ACTIVE_BUILDING-0284c7?style=flat-square&logo=visualstudiocode&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/ARCH-C%2B%2B20_%2F_WIN32-0f172a?style=flat-square&logo=cplusplus&logoColor=38bdf8" />
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=0xFinexCodes&label=VISITORS&style=flat-square&color=0284c7" />
 </p>
 
-<!-- Live Badges & Quick Action Links -->
-<p align="center">
-  <a href="https://kynexauth.com"><img src="https://img.shields.io/badge/KYNEXAUTH-LIVE_PLATFORM-0284c7?style=for-the-badge&logo=shield&logoColor=white" /></a>
-  <a href="https://discord.gg/AHwg2YA6sE"><img src="https://img.shields.io/badge/DISCORD-COMMUNITY-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
-  <a href="mailto:finexboyzz@kynexauth.com"><img src="https://img.shields.io/badge/CONTACT-finexboyzz%40kynexauth.com-0f172a?style=for-the-badge&logo=gmail&logoColor=38bdf8" /></a>
-  <img src="https://komarev.com/ghpvc/?username=0xFinexCodes&label=KAMUI+PORTAL+VIEWS&style=for-the-badge&color=dc2626" />
-</p>
-
-<!-- Anime Chakra / Kamui Rift Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="24px" />
+<!-- Cyber Chakra Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="20px" />
 
 </div>
 
 <br/>
 
-### 🌀 // OBITO UCHIHA INTEL & OPERATIONAL PROFILE
+<!-- =========================================================================
+     MIDDLE: ABOUT ME & IDENTITY
+     ========================================================================= -->
 
-> *"In the ninja world, those who break the rules are scum... but those who abandon their comrades are worse than scum. And those who abandon their dreams are worse than both."* — **Obito Uchiha**
+### 🥷 // OPERATOR INTEL & IDENTITY
+
+I am **Abdullah Sagor**, known across the digital underground as **FINEX BOYZZ.** and **0xFinexCodes**. I engineer hardened low-level systems, C++ desktop tools, DirectX game overlays, and commercial licensing infrastructure. My philosophy follows the **Obito Uchiha** mindset — precise execution, zero bloat, and bulletproof architecture.
 
 ```yaml
-Identity: "Abdullah Sagor (0xFinexCodes / FINEX BOYZZ.)"
-Affiliation: "Uchiha Clan · Akatsuki Masked Architect"
-Primary Mission: "Founder & Lead Developer @ KynexAuth"
-Arsenal: "Modern C++20 · DirectX 11/12 · Space-Time Win32 Hooks"
-Dimension: "Kamui Pocket Void · Midnight Frost"
-Status: "Awakened · Ready for Deployment"
+Operator: "Abdullah Sagor (0xFinexCodes / FINEX BOYZZ.)"
+Role: "Founder & Lead Systems Architect @ KynexAuth"
+Specialty: "C++20 · DirectX 11/12 · Anti-Tamper Security · Cloud Licensing"
+Aesthetic: "Obito Uchiha · Midnight Frost · Kamui Void"
+Motto: "Forged in the shadows. Salt-stained, true to the water."
 ```
 
 ---
 
-### 🛡️ FLAGSHIP SYSTEMS & WEAPONRY
+### 🛡️ WHAT I AM BUILDING & FLAGSHIP WORK
 
 <table>
   <tr>
@@ -53,37 +57,37 @@ Status: "Awakened · Ready for Deployment"
       <h3 align="center">🛡️ KynexAuth</h3>
       <p align="center"><b>Next-Gen Software Protection & Licensing Cloud</b></p>
       <ul>
-        <li><b>Core:</b> Sub-millisecond cloud crypto licensing API (AES-256-GCM)</li>
-        <li><b>Hardware Lock:</b> Multi-point hardware ID (HWID) hashing & anti-tamper</li>
-        <li><b>SDKs:</b> Native Win32 C++, C# .NET 8, and Python 3 packages</li>
-        <li><b>Status:</b> <code>Production Live @ kynexauth.com</code></li>
+        <li><b>Crypto Engine:</b> Sub-millisecond cloud licensing API backed by AES-256-GCM.</li>
+        <li><b>Hardware Lock:</b> Multi-point Hardware ID (HWID) hashing with anti-tamper defenses.</li>
+        <li><b>Developer SDKs:</b> Native Win32 C++, C# .NET 8, and Python 3 libraries.</li>
+        <li><b>Status:</b> <code>Production Active @ kynexauth.com</code></li>
       </ul>
       <p align="center">
-        <a href="https://kynexauth.com"><img src="https://img.shields.io/badge/Explore-KynexAuth.com-0284c7?style=flat-square&logo=google-chrome&logoColor=white" /></a>
+        <a href="https://kynexauth.com"><img src="https://img.shields.io/badge/Explore-kynexauth.com-0284c7?style=flat-square&logo=google-chrome&logoColor=white" /></a>
       </p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">⚡ Finex Corp — Dark-X Suite</h3>
       <p align="center"><b>High-Performance C++ DirectX 11 ImGui Overlay</b></p>
       <ul>
-        <li><b>Rendering:</b> DirectX 11 hardware swapchain with zero frame stutter</li>
-        <li><b>Interface:</b> Dear ImGui with custom Dark-X neon theme & animations</li>
-        <li><b>Stealth:</b> Streamer-mode overlay cloaking & low-level Win32 hooks</li>
-        <li><b>Status:</b> <code>Active Production</code></li>
+        <li><b>Rendering:</b> DirectX 11 hardware swapchain with 0 frame latency.</li>
+        <li><b>UI Engine:</b> Dear ImGui customized with Dark-X neon aesthetics & sound FX.</li>
+        <li><b>Stealth:</b> Streamer-mode overlay cloaking & low-level Win32 hooks.</li>
+        <li><b>Status:</b> <code>Active Production Build</code></li>
       </ul>
       <p align="center">
-        <img src="https://img.shields.io/badge/DirectX_11-Hardware_Accelerated-dc2626?style=flat-square&logo=cplusplus&logoColor=white" />
+        <img src="https://img.shields.io/badge/DirectX_11-Hardware_Accelerated-0f172a?style=flat-square&logo=cplusplus&logoColor=38bdf8" />
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🌐 Worldwide Web Stores & Portfolios</h3>
+      <h3 align="center">🌐 Worldwide Web Stores & Systems</h3>
       <p align="center"><b>Commercial Web Systems & Digital Storefronts</b></p>
       <ul>
-        <li><b>Commerce:</b> 2 international online shops & digital item storefronts</li>
-        <li><b>Creator Portfolios:</b> Bespoke web apps engineered for global creators</li>
-        <li><b>Checkout:</b> Automated instant digital delivery & secure crypto/card gateways</li>
+        <li><b>E-Commerce:</b> 2 worldwide online storefronts & digital item marketplaces.</li>
+        <li><b>Client Portfolios:</b> Bespoke web applications built for international creators.</li>
+        <li><b>Checkout:</b> Automated digital asset delivery with secure payment gateways.</li>
         <li><b>Status:</b> <code>Worldwide Deployed</code></li>
       </ul>
     </td>
@@ -91,9 +95,9 @@ Status: "Awakened · Ready for Deployment"
       <h3 align="center">⚙️ C# Desktop Automation</h3>
       <p align="center"><b>Native Windows Productivity Utilities</b></p>
       <ul>
-        <li><b>Architecture:</b> .NET 8, WPF & Windows Forms MVVM structure</li>
-        <li><b>Concurrency:</b> Non-blocking background worker threads & TPL async pipelines</li>
-        <li><b>System API:</b> Deep Win32 P/Invoke & encrypted DPAPI local storage</li>
+        <li><b>Architecture:</b> .NET 8, WPF & Windows Forms with clean MVVM structure.</li>
+        <li><b>Concurrency:</b> Non-blocking background worker threads & async task pipelines.</li>
+        <li><b>System API:</b> Deep Win32 P/Invoke & encrypted DPAPI local storage.</li>
         <li><b>Status:</b> <code>Active In-Progress</code></li>
       </ul>
     </td>
@@ -102,7 +106,19 @@ Status: "Awakened · Ready for Deployment"
 
 ---
 
-### ⚔️ NINJUTSU & TECH ARSENAL
+### 📦 WHAT YOU WILL FIND ON THIS GITHUB
+
+```text
+├── 📂 C++ & DirectX 11 Overlays       -> Immediate-mode Dear ImGui suites, shaders, swapchains
+├── 📂 Reverse Engineering & Auth      -> HWID hashing routines, anti-debugging, memory hooks
+├── 📂 Web Platforms & E-Commerce      -> React 19, Next.js storefronts, digital item marketplaces
+├── 📂 Desktop Automation Tools        -> C# .NET 8 productivity utilities & system helpers
+└── 📂 Bespoke Creator Portfolios      -> Ultra-clean, high-performance web portfolio engines
+```
+
+---
+
+### ⚔️ TECH WEAPONRY
 
 <div align="center">
 
@@ -110,59 +126,89 @@ Status: "Awakened · Ready for Deployment"
   <img src="https://skillicons.dev/icons?i=cpp,cs,python,c,asm,react,nextjs,ts,js,nodejs,express,mongodb,redis,tailwind,git,visualstudio,vscode&perline=9&theme=dark" />
 </p>
 
-| Domain | Jutsu & Technologies |
+| Domain | Technologies |
 | :--- | :--- |
-| **Low-Level Space-Time** | `C++20` `DirectX 11/12` `Dear ImGui` `Win32 API` `x64 Assembly` `Memory Hooks` |
+| **Low-Level & Graphics** | `C++20` `DirectX 11/12` `Dear ImGui` `Win32 API` `x64 Assembly` `Memory Hooks` |
 | **Desktop Automation** | `C# .NET 8` `WPF` `Windows Forms` `Async/Await Task Pipelines` `P/Invoke` |
 | **Full-Stack & Cloud** | `React 19` `Next.js` `TypeScript` `Node.js` `Express` `MongoDB` `Redis` |
-| **Security & Sealing Jutsu** | `AES-256-GCM` `Multi-Point HWID Lock` `Dynamic Salting` `Anti-Debugging` |
+| **Security & Sealing** | `AES-256-GCM` `Multi-Point HWID Lock` `Dynamic Salting` `Anti-Debugging` |
 
 </div>
 
 ---
 
-### 📊 TELEMETRY & CHAKRA STREAKS
+### 📡 CONNECT WITH ME
+
+<div align="center">
+
+<p align="center">
+  <a href="https://discord.gg/AHwg2YA6sE">
+    <img src="https://img.shields.io/badge/Discord-Join%20Community-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+  &nbsp;
+  <a href="mailto:finexboyzz@kynexauth.com">
+    <img src="https://img.shields.io/badge/Email-finexboyzz%40kynexauth.com-0284c7?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/0xFinexCodes">
+    <img src="https://img.shields.io/badge/GitHub-0xFinexCodes-0f172a?style=for-the-badge&logo=github&logoColor=38bdf8" alt="GitHub" />
+  </a>
+  &nbsp;
+  <a href="https://kynexauth.com">
+    <img src="https://img.shields.io/badge/Platform-kynexauth.com-0369a1?style=for-the-badge&logo=google-chrome&logoColor=white" alt="KynexAuth" />
+  </a>
+</p>
+
+</div>
+
+---
+
+### 📊 REAL-TIME TELEMETRY
 
 <div align="center">
 
 <table border="0">
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=0xFinexCodes&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=38bdf8&text_color=94a3b8&icon_color=38bdf8" height="165" alt="Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=0xFinexCodes&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0b0f19&title_color=38bdf8&text_color=94a3b8&icon_color=38bdf8" height="155" alt="GitHub Stats" />
     </td>
     <td align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=0xFinexCodes&theme=tokyonight&hide_border=true&background=00000000&ring=38bdf8&fire=dc2626&currStreakLabel=38bdf8" height="165" alt="Streak" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xFinexCodes&layout=compact&theme=tokyonight&hide_border=true&bg_color=0b0f19&title_color=38bdf8&text_color=94a3b8" height="155" alt="Top Languages" />
     </td>
   </tr>
 </table>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xFinexCodes&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=38bdf8&text_color=94a3b8" width="380" alt="Top Langs" />
 
 </div>
 
 ---
 
 <!-- =========================================================================
-     GOODBYE & KAMUI SPACE-TIME WARP OUT
+     BOTTOM: PURE SAD OBITO GOODBYE GIF EDIT
      ========================================================================= -->
+
 <div align="center">
 
 <br/>
 
-### 🌀 「 FAREWELL, TRAVELER 」
-#### *Leaving the Kamui Pocket Dimension...*
+<!-- Obito Sad / Rain Goodbye Animation (Pure GIF) -->
+<a href="https://github.com/0xFinexCodes">
+  <img src="assets/goodbye.gif" width="460" alt="Obito Uchiha Farewell Edit" />
+</a>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/13fS0DeekVUspG/giphy.gif" width="340" style="border-radius: 12px; border: 1px solid #1e293b; box-shadow: 0 0 25px rgba(220, 38, 38, 0.25);" alt="Obito Kamui Farewell" />
-</p>
+<br/><br/>
+
+> *“I am no one... I don’t want to be anyone. All I care about is completing the Tsuki no Me plan. Look at me... There is nothing in my heart now. I don’t even feel pain anymore.”*
+<br/>— **Obito Uchiha**
+
+<br/>
 
 ```c++
 /*
- * 0xFinexCodes space-time loop
+ * 0xFinexCodes space-time execution loop
  */
 try {
     while (shinobi.is_breathing()) {
-        kamui.phase_through_obstacles();
+        kamui.phase_through_adversity();
         kynexauth.encrypt_payloads();
         developer.ship_legendary_software();
     }
@@ -171,12 +217,10 @@ try {
 }
 ```
 
-<p align="center">
-  <sub>*“Look at me. There is nothing in my heart now. I don’t even feel pain anymore.”*</sub><br/>
-  <b>Thanks for stepping into my domain. Until our paths cross again.</b>
-</p>
+<br/>
 
-<!-- Animated Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=28,16,8,2,0&height=130&section=footer" width="100%" />
+<p align="center">
+  <sub>⚡ <b>0xFinexCodes</b> · Forged in the shadows · Powered by midnight frost ⚡</sub>
+</p>
 
 </div>
