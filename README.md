@@ -4,14 +4,14 @@
        TOP: NARUTO / SHINOBI WELCOME GIF EDIT (PERMANENT LIVE CLOUD URL)
        ========================================================================= -->
   <a href="https://kynexauth.com">
-    <img src="https://files.catbox.moe/ta9ds2.gif" width="100%" style="max-width: 720px; border-radius: 12px; border: 1px solid #1e293b; box-shadow: 0 0 35px rgba(56, 189, 248, 0.3);" alt="Naruto Welcome Edit" />
+    <img src="https://files.catbox.moe/ta9ds2.gif" width="420" style="border-radius: 10px; border: 1px solid #1e293b; box-shadow: 0 0 20px rgba(56, 189, 248, 0.25);" alt="Naruto Welcome Edit" />
   </a>
 
   <br><br>
 
   <!-- Dynamic Typing Telemetry Header -->
   <a href="https://github.com/0xFinexCodes">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&height=60&lines=%E2%9A%A1+Welcome+to+my+domain!+%E2%80%94+The+Shinobi+Void;%F0%9F%A5%B7+Abdullah+Sagor+(0xFinexCodes)+%C2%B7+Systems+Architect;%F0%9F%91%81%EF%B8%8F+C%2B%2B20+%C2%B7+DirectX+11+%C2%B7+Dear+ImGui+Specialist;%F0%9F%9B%A1%EF%B8%8F+Founder+%26+Lead+Architect+%40+KynexAuth;%E2%9A%94%EF%B8%8F+Obito+Uchiha+Mindset+%E2%80%94+Zero-Day+Craftsmanship" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=720&height=50&lines=%E2%9A%A1+Welcome+to+my+domain!+%E2%80%94+The+Shinobi+Void;%F0%9F%A5%B7+Abdullah+Sagor+(0xFinexCodes)+%C2%B7+Systems+Architect;%F0%9F%91%81%EF%B8%8F+C%2B%2B20+%C2%B7+DirectX+11+%C2%B7+Dear+ImGui+Specialist;%F0%9F%9B%A1%EF%B8%8F+Founder+%26+Lead+Architect+%40+KynexAuth;%E2%9A%94%EF%B8%8F+Obito+Uchiha+Mindset+%E2%80%94+Zero-Day+Craftsmanship" alt="Typing SVG" />
   </a>
 
   <br>
@@ -45,9 +45,9 @@
 
 <table border="0" width="100%">
   <tr>
-    <td width="240px" align="center" valign="middle">
+    <td width="180px" align="center" valign="middle">
       <a href="https://kynexauth.com">
-        <img src="https://files.catbox.moe/ta9ds2.gif" width="220px" style="border-radius: 12px; border: 1px solid #1e293b; box-shadow: 0 0 20px rgba(56, 189, 248, 0.25);" alt="Shinobi Avatar" />
+        <img src="https://files.catbox.moe/ta9ds2.gif" width="160px" style="border-radius: 10px; border: 1px solid #1e293b; box-shadow: 0 0 15px rgba(56, 189, 248, 0.2);" alt="Shinobi Avatar" />
       </a>
     </td>
     <td valign="top">
@@ -204,7 +204,7 @@
 <div align="center">
 
   <a href="https://github.com/0xFinexCodes">
-    <img src="https://files.catbox.moe/4adezq.gif" width="100%" style="max-width: 720px; border-radius: 12px; border: 1px solid #1e293b; box-shadow: 0 0 35px rgba(220, 38, 38, 0.35);" alt="Obito Uchiha Farewell" />
+    <img src="https://files.catbox.moe/4adezq.gif" width="420" style="border-radius: 10px; border: 1px solid #1e293b; box-shadow: 0 0 20px rgba(220, 38, 38, 0.25);" alt="Obito Uchiha Farewell" />
   </a>
   
   <br><br>
