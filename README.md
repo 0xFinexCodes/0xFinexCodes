@@ -1,58 +1,75 @@
 <div align="center">
-  <!-- TOP: FULL-WIDTH ANIME WELCOME BANNER -->
-  <img src="https://raw.githubusercontent.com/mfauzirh/mfauzirh/main/assets/images/herobanner.gif" width="100%" style="border-radius: 10px;" alt="Hero Banner" />
-</div>
 
-<br>
-
-<div align="center">
-  <a href="https://github.com/0xFinexCodes">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&height=70&lines=Welcome+to+my+domain!+%E2%9A%A1;I'm+Abdullah+Sagor+(0xFinexCodes)+%F0%9F%A5%B7;C%2B%2B20+%7C+DirectX+11+%7C+Low-Level+%7C+Reverse+Engineering;Founder+%26+Lead+Architect+%40+KynexAuth;Forged+in+the+shadows.+Zero-Day+Craftsmanship!" alt="Typing SVG" />
-  </a>
-</div>
-
-<p align="center">
-  <a href="https://github.com/0xFinexCodes">
-    <img src="https://img.shields.io/badge/Location-Bangladesh_%F0%9F%87%A7%F0%9F%87%BD-0284c7?style=for-the-badge&logoColor=white" />
-  </a>
+  <!-- =========================================================================
+       TOP: NARUTO / SHINOBI WELCOME GIF EDIT
+       ========================================================================= -->
   <a href="https://kynexauth.com">
-    <img src="https://img.shields.io/badge/Founder-KynexAuth-0369a1?style=for-the-badge&logoColor=white" />
+    <img src="assets/welcome.gif" width="520" style="border-radius: 12px; border: 1px solid #1e293b; box-shadow: 0 0 25px rgba(56, 189, 248, 0.25);" alt="Naruto Welcome Edit" />
   </a>
+
+  <br><br>
+
+  <!-- Dynamic Typing Header -->
   <a href="https://github.com/0xFinexCodes">
-    <img src="https://img.shields.io/badge/Main_Loves-C%2B%2B_%7C_DirectX_ImGui_%7C_Anti--Tamper-0f172a?style=for-the-badge&logoColor=38bdf8" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&height=70&lines=Welcome+to+my+domain!+%E2%9A%A1;I'm+Abdullah+Sagor+(0xFinexCodes)+%F0%9F%A5%B7;C%2B%2B20+%7C+DirectX+11+%7C+Low-Level+%7C+Reverse+Engineering;Founder+%26+Lead+Architect+%40+KynexAuth;Forged+in+the+shadows.+Zero-Day+Craftsmanship!" alt="Typing SVG" />
   </a>
-  <a href="https://github.com/0xFinexCodes">
-    <img src="https://komarev.com/ghpvc/?username=0xFinexCodes&color=0284c7&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
-  </a>
-</p>
+
+  <br>
+
+  <!-- Status & Pill Badges -->
+  <p align="center">
+    <a href="https://github.com/0xFinexCodes">
+      <img src="https://img.shields.io/badge/Location-Bangladesh_%F0%9F%87%A7%F0%9F%87%BD-0284c7?style=for-the-badge&logoColor=white" />
+    </a>
+    <a href="https://kynexauth.com">
+      <img src="https://img.shields.io/badge/Founder-KynexAuth-0369a1?style=for-the-badge&logoColor=white" />
+    </a>
+    <a href="https://github.com/0xFinexCodes">
+      <img src="https://img.shields.io/badge/Main_Loves-C%2B%2B_%7C_DirectX_ImGui_%7C_Anti--Tamper-0f172a?style=for-the-badge&logoColor=38bdf8" />
+    </a>
+    <a href="https://github.com/0xFinexCodes">
+      <img src="https://komarev.com/ghpvc/?username=0xFinexCodes&color=0284c7&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+    </a>
+  </p>
+
+</div>
 
 <br>
 
-<!-- BIO & ANIME SIDE-BY-SIDE TABLE -->
+<!-- =========================================================================
+     BIO & SHINOBI SIDE-BY-SIDE TABLE (RealTenzo Layout)
+     ========================================================================= -->
+
 <table border="0" width="100%">
   <tr>
-    <td width="230px" align="center" valign="top">
-      <img src="https://c.tenor.com/Bpv9wTLKMskAAAAC/tenor.gif" width="220px" style="border-radius: 12px;" alt="Shinobi GIF" />
+    <td width="240px" align="center" valign="middle">
+      <a href="https://kynexauth.com">
+        <img src="assets/welcome.gif" width="220px" style="border-radius: 12px; border: 1px solid #1e293b;" alt="Shinobi Avatar" />
+      </a>
     </td>
     <td valign="top">
       <p align="left">
         &nbsp;&#10022; <b>Abdullah Sagor</b> (online handle: <b>0xFinexCodes</b> / <b>FINEX BOYZZ.</b>).
         <br><br>
-        &nbsp;&#10022; <b>Systems Developer & Reverse Engineer</b> from Bangladesh 🇧🇩 focused on low-level native architecture and security.
+        &nbsp;&#10022; <b>Systems Developer & Reverse Engineer</b> from Bangladesh 🇧🇩 specialized in native C++ Win32 and game graphics.
         <br><br>
         &nbsp;&#10022; Writing <b>C++20, DirectX 11/12 ImGui suites, Win32 API, anti-debugging, and HWID locking engines</b>.
         <br><br>
-        &nbsp;&#10022; Creator and Lead Architect of <b><a href="https://kynexauth.com">KynexAuth</a></b> — next-gen software licensing and cloud protection.
+        &nbsp;&#10022; Creator & Lead Systems Architect of <b><a href="https://kynexauth.com">KynexAuth</a></b> — next-gen software protection and licensing cloud.
         <br><br>
-        &nbsp;&#10022; Building <b>Worldwide E-Commerce Stores & Client Systems</b> alongside C# .NET desktop automation.
+        &nbsp;&#10022; Deployed <b>Worldwide E-Commerce Stores & Client Web Systems</b> alongside C# .NET desktop automation.
         <br><br>
-        &nbsp;&#10022; Shinobi aesthetic 🥷 | Obito Uchiha mindset | Always shipping hardened software.
+        &nbsp;&#10022; Naruto & Obito Uchiha devotee 🥷 | Kamui space-time mindset | Forged in the shadows.
       </p>
     </td>
   </tr>
 </table>
 
 <br>
+
+<!-- =========================================================================
+     SKILLS & WEAPONRY (Categorized Shields)
+     ========================================================================= -->
 
 <h2 align="center">💻 What I Work With</h2>
 
@@ -86,8 +103,11 @@
   <img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" />
 </div>
 
-<br>
-<br>
+<br><br>
+
+<!-- =========================================================================
+     FEATURED REPOSITORIES & SYSTEMS (2x2 Grid)
+     ========================================================================= -->
 
 <h2 align="center">🚀 Featured Repositories & Systems</h2>
 
@@ -142,8 +162,11 @@
   </tr>
 </table>
 
-<br>
-<br>
+<br><br>
+
+<!-- =========================================================================
+     CONNECT WITH ME
+     ========================================================================= -->
 
 <h2 align="center">📬 Connect With Me</h2>
 
@@ -169,14 +192,20 @@
 <hr>
 <br>
 
-<!-- BOTTOM: FULL-WIDTH ANIME GOODBYE BANNER & OBITO SEAL -->
+<!-- =========================================================================
+     BOTTOM: SAD OBITO UCHIHA GOODBYE GIF EDIT & SEAL
+     ========================================================================= -->
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/mfauzirh/mfauzirh/main/assets/images/goodbye.gif" width="100%" style="border-radius: 10px;" alt="Goodbye Banner" />
+
+  <a href="https://github.com/0xFinexCodes">
+    <img src="assets/goodbye.gif" width="520" style="border-radius: 12px; border: 1px solid #1e293b; box-shadow: 0 0 25px rgba(220, 38, 38, 0.35);" alt="Obito Uchiha Farewell" />
+  </a>
   
   <br><br>
   
   <p align="center">
-    <i>“I am no one... I don’t want to be anyone. All I care about is completing the Tsuki no Me plan. Look at me... There is nothing in my heart now.”</i>
+    <i>“I am no one... I don’t want to be anyone. All I care about is completing the Tsuki no Me plan. Look at me... There is nothing in my heart now. I don’t even feel pain anymore.”</i>
     <br>
     <b>— Obito Uchiha</b>
   </p>
@@ -204,4 +233,5 @@ try {
     <b>Thanks for stopping by my digital sanctuary!</b> ⚡
   </p>
   <sub>⚡ <b>0xFinexCodes</b> · Forged in the shadows · Powered by midnight frost ⚡</sub>
+
 </div>
